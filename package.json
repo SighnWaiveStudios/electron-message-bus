@@ -1,0 +1,15 @@
+{
+  "name": "electron-message-bus",
+  "version": "0.0.1",
+  "description": "Electron message Bus container that takes the pain out of IPC",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "SighnWaive <sighnwaive@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SighnWaiveStudios/electron-message-bus.git"
+  }
+}
